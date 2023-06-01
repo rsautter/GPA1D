@@ -1,0 +1,4 @@
+[build-system]
+name="GPA1D"
+version = "0.1"
+requires = ["setuptools","wheel","GPA","scipy","numpy"]
