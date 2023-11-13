@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: GPA1D
+Version: 0.1
+Summary: Implementation of GPA for timeseries
+Home-page: https://github.com/rsautter/GPA1D
+Author: Rubens Andreas Sautter
+Author-email: rubens.sautter@gmail.com
+Keywords: Gradient Pattern Analysis

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+GPA1D/GPA1D.py
+GPA1D/__init__.py
+GPA1D/gilbert2d.py
+GPA1D.egg-info/PKG-INFO
+GPA1D.egg-info/SOURCES.txt
+GPA1D.egg-info/dependency_links.txt
+GPA1D.egg-info/top_level.txt
